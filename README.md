@@ -40,4 +40,15 @@
  - Часть графиков не подгрузилась вместе с кодом, добавлю сдесь отдельными картинками
    ТОП-10 участников по длине сообщения
    ![Топ по длине сообщения](https://github.com/Lany4/TG_chat_sentiment_analysis/assets/117763138/bb1e45f1-3cbf-4bfc-92dd-1d9858c2a24f)
+   ТОП-10 гимов
+   ![топ_гимов](https://github.com/Lany4/TG_chat_sentiment_analysis/assets/117763138/ad198d63-86e4-4a8b-8e54-0b2d790848c1)
+   ТОП-10 лидеров
+   ![топ_лидеров](https://github.com/Lany4/TG_chat_sentiment_analysis/assets/117763138/32d15bb3-3457-4787-87a7-ee9f62296d24)
+   Карта гимов
+   ![newplot](https://github.com/Lany4/TG_chat_sentiment_analysis/assets/117763138/e4a15bfd-2c57-4638-972e-a7441b1a71de)
+   ТОП покемонов по времени
+   ![Топ_пок_по _времени](https://github.com/Lany4/TG_chat_sentiment_analysis/assets/117763138/0e030ac1-8794-4ec7-aef4-d7962aab2247)
+
+
+
 
